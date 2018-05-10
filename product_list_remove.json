@@ -1,0 +1,1 @@
+{"type": "object", "title": "product_list_remove", "description": "Deleted product to list", "properties": {"productName": {"type": "string"}, "productId": {"type": "string"}}}

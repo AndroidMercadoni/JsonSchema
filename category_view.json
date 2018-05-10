@@ -1,0 +1,1 @@
+{"type": "object", "title": "category_view", "description": "Category", "properties": {"categoryName": {"type": "string"}, "categoryId": {"type": "string"}}}

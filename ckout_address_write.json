@@ -1,0 +1,1 @@
+{"type": "object", "title": "ckout_address_write", "description": "Adress write", "properties": {"campaignId": {"type": "string"}}}

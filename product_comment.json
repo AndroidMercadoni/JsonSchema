@@ -1,0 +1,1 @@
+{"type": "object", "title": "product_comment", "description": "Product comment", "properties": {"productName": {"type": "string"}, "productId": {"type": "string"}}}

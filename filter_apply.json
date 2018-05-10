@@ -1,0 +1,1 @@
+{"type": "object", "title": "filter_apply", "description": "Applied filter", "properties": {"filterName": {"type": "string"}, "filterValue": {"type": "string"}}}

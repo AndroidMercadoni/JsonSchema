@@ -1,0 +1,1 @@
+{"type": "object", "title": "list_viewed", "description": "List viewed", "properties": {"listId": {"type": "string"}}}

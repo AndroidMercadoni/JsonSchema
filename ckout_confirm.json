@@ -1,0 +1,1 @@
+{"type": "object", "title": "ckout_confirm", "description": "Checkout confirm", "properties": {"orderId": {"type": "string"}, "campaignId": {"type": "string"}}}

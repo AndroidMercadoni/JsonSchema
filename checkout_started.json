@@ -1,0 +1,1 @@
+{"type": "object", "title": "checkout_started", "description": "Checkout started", "properties": {"cartTotal": {"type": "string"}, "numProducts": {"type": "string"}}}

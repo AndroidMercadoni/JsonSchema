@@ -1,0 +1,1 @@
+{"type": "object", "title": "ckout_add_card_success", "description": "Checkout add card success", "properties": {"campaignId": {"type": "string"}}}

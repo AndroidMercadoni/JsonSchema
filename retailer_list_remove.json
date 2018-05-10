@@ -1,0 +1,1 @@
+{"type": "object", "title": "retailer_list_remove", "description": "Deleted retailer from list", "properties": {"retailerName": {"type": "string"}, "productId": {"type": "string"}}}

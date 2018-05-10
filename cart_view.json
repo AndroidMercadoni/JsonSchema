@@ -1,0 +1,1 @@
+{"type": "object", "title": "cart_view", "description": "Cart", "properties": {"campaignId": {"type": "string"}}}

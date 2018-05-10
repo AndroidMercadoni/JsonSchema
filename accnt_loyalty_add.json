@@ -1,0 +1,1 @@
+{"type": "object", "title": "accnt_loyalty_add", "description": "Add loyalty program", "properties": {"loyaltyProgramName": {"type": "string"}}}

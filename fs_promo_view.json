@@ -1,0 +1,1 @@
+{"type": "object", "title": "fs_promo_view", "description": "Free shipping promotion view", "properties": {"campaignId": {"type": "string"}, "campaignName": {"type": "string"}}}

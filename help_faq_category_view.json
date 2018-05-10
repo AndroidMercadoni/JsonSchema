@@ -1,0 +1,1 @@
+{"type": "object", "title": "help_faq_category_view", "description": "Help FAQ category open", "properties": {"questionCategoryId": {"type": "string"}}}

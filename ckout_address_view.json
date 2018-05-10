@@ -1,0 +1,1 @@
+{"type": "object", "title": "ckout_address_view", "description": "Checkout Address", "properties": {"campaignId": {"type": "string"}}}

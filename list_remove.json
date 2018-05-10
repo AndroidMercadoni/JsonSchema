@@ -1,0 +1,1 @@
+{"type": "object", "title": "list_remove", "description": "List removed", "properties": {"listId": {"type": "string"}}}

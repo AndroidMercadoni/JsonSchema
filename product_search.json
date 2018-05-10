@@ -1,0 +1,1 @@
+{"type": "object", "title": "product_search", "description": "Product search", "properties": {"searchQuery": {"type": "string"}}}

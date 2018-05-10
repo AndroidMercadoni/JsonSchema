@@ -1,0 +1,1 @@
+{"type": "object", "title": "accnt_loyalty_remove", "description": "Remove loyalty program", "properties": {"loyaltyProgramName": {"type": "string"}}}

@@ -1,0 +1,1 @@
+{"type": "object", "title": "product_favorite", "description": "Product favorited", "properties": {"productName": {"type": "string"}, "productId": {"type": "string"}}}

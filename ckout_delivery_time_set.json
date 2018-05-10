@@ -1,0 +1,1 @@
+{"type": "object", "title": "ckout_delivery_time_set", "description": "Delivery time", "properties": {"timeSlot": {"type": "string"}, "campaignId": {"type": "string"}}}

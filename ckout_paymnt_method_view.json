@@ -1,0 +1,1 @@
+{"type": "object", "title": "ckout_paymnt_method_view", "description": "Checkout select payment method. ", "properties": {"campaignId": {"type": "string"}}}

@@ -1,0 +1,1 @@
+{"type": "object", "title": "ckout_address_save", "description": "Adress location save", "properties": {"addressType": {"type": "string"}, "campaignId": {"type": "string"}}}

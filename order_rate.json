@@ -1,0 +1,1 @@
+{"type": "object", "title": "order_rate", "description": "Order rated", "properties": {"rating": {"type": "string"}}}
